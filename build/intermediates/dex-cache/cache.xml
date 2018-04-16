@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ola\.android\build-cache\f04b62b48d0c7749f2450780dfd42189d165f579\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="C:\Users\Ola\AndroidStudioProjects\Pokemon-Solution-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_0c0985d62fc94ad5b39595aa5caf8d3021f5b821\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ola\.android\build-cache\f41e5fced37536f9df88775267c57ac5725140bb\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="C:\Users\Ola\AndroidStudioProjects\Pokemon-Solution-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_7e0375374a11c540821b842babe8771dcb6d5b36\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ola\.android\build-cache\e836946f197e80e3254a39d46ae8b7b27716d6b0\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="C:\Users\Ola\AndroidStudioProjects\Pokemon-Solution-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_8a8fed95c8e58110b3729ce3044f7b6dbcdb7c78\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ola\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\26.0.0-alpha1\support-annotations-26.0.0-alpha1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="C:\Users\Ola\AndroidStudioProjects\Pokemon-Solution-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-26.0.0-alpha1_481081ce198c445a5b4e2354e0cfd21b659c0f82\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ola\.android\build-cache\cf4c6a24d9eaad98d6bda1dab34178fe94f02fa3\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="C:\Users\Ola\AndroidStudioProjects\Pokemon-Solution-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_fc650e181ff6672c4c4e5a9bc95c68abe8179ff9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ola\AndroidStudioProjects\Pokemon-Solution-master\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="58701461e950b8a7097bfc19928384494894b1da">
+        <dex dex="C:\Users\Ola\AndroidStudioProjects\Pokemon-Solution-master\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_9d7d37fb78a0eba36e560345e52f015055548c3a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ola\AndroidStudioProjects\Pokemon-Solution-master\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\Ola\AndroidStudioProjects\Pokemon-Solution-master\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_eb79359fb675058474e58c0e1c95dc913a8633d7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ola\.android\build-cache\e65ef97dfcdb322af354e9c270b8d56f63ef2f4c\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="C:\Users\Ola\AndroidStudioProjects\Pokemon-Solution-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_1aa482150919dea87dacbc90661f4ed5ad9afff9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ola\.android\build-cache\bc4b1254c534f0988972258d4e9929255811119d\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="C:\Users\Ola\AndroidStudioProjects\Pokemon-Solution-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_8cc30c83c30a2dab300c1a38f395754ac5465459\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ola\.android\build-cache\cafeeeb9d2b4402089d37847d8091e381e4480d9\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="C:\Users\Ola\AndroidStudioProjects\Pokemon-Solution-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_bc5d9e8e37891cb1b98e7eb9f7e384a15467337d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ola\.android\build-cache\57c94f2689f2b16f72299128e1d24ff1fa6efb68\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Ola\AndroidStudioProjects\Pokemon-Solution-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d8e91a45eeec3198c9c97eebd08aaec39c97d69d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ola\.android\build-cache\7ed89737b8ad62b3d8a90dfbaa0996cebf5ab2b5\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="C:\Users\Ola\AndroidStudioProjects\Pokemon-Solution-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_2215592233bf3d237f9992c7cf16b9add865ec56\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ola\.android\build-cache\f07dbd9bd6aeb2b1c165c388cf9444149856e24c\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="C:\Users\Ola\AndroidStudioProjects\Pokemon-Solution-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d6a0f4010b7dd2f90d063b8f87ba92ba4dcb9a1e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ola\AppData\Local\Android\Sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="C:\Users\Ola\AndroidStudioProjects\Pokemon-Solution-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\constraint-layout-solver-1.0.2_cdd14e10a447ae1844a4da8a8e923a2cd8817efc\classes.dex" />
+    </item>
+
+</items>
